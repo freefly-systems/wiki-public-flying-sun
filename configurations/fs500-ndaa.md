@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Firmware Updates
+# FS500 NDAA
 

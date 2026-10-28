@@ -1,4 +1,8 @@
-# Power Supply
+---
+description: Freefly-approved power sources
+---
+
+# Tether Power Supply
 
 **Electric Vehicles:**
 
@@ -14,9 +18,13 @@
 * Honda [EB6500X1AT](https://www.sunbeltrentals.com/equipment-rental/generators-and-accessories/6500-watt-generator/0080007/#specifications)
   * Equipped with **NEMA L14-30R**
 
+**Power Bank:**
+
+* EcoFlow Delta Pro 3
+
 **Shore Power:**
 
 * 240V Single-phase AC&#x20;
-* Minimum power requirement: 5000W
+* Minimum power requirement: 4000W
 * Connector type: **NEMA L14-30R** or **NEMA L14-30P(female)**
 

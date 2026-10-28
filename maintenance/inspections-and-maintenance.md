@@ -1,4 +1,4 @@
-# Maintenance
+# Inspections and Maintenance
 
 #### Tether cable&#x20;
 
@@ -11,12 +11,12 @@ If this wire comes out, you can try to coax it back into the sheath. If this is 
 {% endhint %}
 
 {% hint style="danger" %}
-Do not fly or turn on HV with the internal tether wire exposed
+Do not fly or enable HV with the internal tether wire exposed
 {% endhint %}
 
 #### Tether backup battery
 
-Tether ground station has backup battery for keeping tension during a ground station power failure. please ensure the tether ground station is charged more than 50% before flight.
+Tether ground unit has an internal backup battery for keeping tension during a ground station power failure. Remember to turn on backup battery when the tether is in use, and it will recharge during operation.
 
 {% hint style="info" %}
 The ground station uses power to reel in the cable, and it cannot be reeled in by hand
@@ -24,7 +24,7 @@ The ground station uses power to reel in the cable, and it cannot be reeled in b
 
 #### Light leaf&#x20;
 
-User replaceable with (2) M3x6mm Socket Head Screws.
+Replacement of a light leaf is rarely required. If needed, each light leaf is user-replaceable and attaches with two M3×6 mm socket head screws. Contact Freefly for replacements.
 
 #### Astro Maintenance
 

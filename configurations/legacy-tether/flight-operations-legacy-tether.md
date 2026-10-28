@@ -1,4 +1,4 @@
-# Procedures
+# Flight Operations - Legacy Tether
 
 The Flying Sun is a complex system requiring precise configuration for optimal results. This article serves as a comprehensive resource to guide you through the setup and usage of the Flying Sun hardware and its accompanying software.
 
@@ -21,9 +21,9 @@ Astro will RTL at 50% battery, which takes about 5-7 minutes if the tether loses
 ### Setup Flying Sun 500
 
 1. Turn on Pilot Pro and allow it to boot up.
-2. Ensure [D2 nob](../system-overview.md#pilot-pro) is in the counterclockwise position and [S2 switch](../system-overview.md#pilot-pro) is in the down position.
+2. Ensure [D2 nob](../../overview/system-overview.md#pilot-pro) is in the counterclockwise position and [S2 switch](../../overview/system-overview.md#pilot-pro) is in the down position.
 3. Place Astro 5 to 10 meters / 16 to 32 feet away from Ground Unit.
-4. Install Air Unit on Astro's [right side](../system-overview.md#air-unit) battery interface.
+4. Install Air Unit on Astro's [right side](../../overview/system-overview.md#air-unit) battery interface.
 5. Connect Astro's XT-90 plug to XT-90 port on right side of Air Unit.
 6. Confirm [SL8](https://freefly.gitbook.io/freefly-public/products/superlight-batteries) state of charge is above 90% and install on Astro.
    * Tether only allows HV to be enabled when SL8 is charged above 90%.
@@ -164,7 +164,7 @@ The Ground Unit will sound a beeper alarm when tether extends over 90m (\~300ft)
    * It can be helpful to release this prior to the plug assembly reaching the Ground Unit to avoid damage to the plug.
 
 {% hint style="warning" %}
-Please ensure the cable isn't bent, kinked or knotted anywhere, this can result in damage when retracted into the Ground Unit. Please see [Maintenance](../maintenance.md) section for more information.
+Please ensure the cable isn't bent, kinked or knotted anywhere, this can result in damage when retracted into the Ground Unit. Please see [Maintenance](../../maintenance/inspections-and-maintenance.md) section for more information.
 {% endhint %}
 
 {% hint style="success" %}
